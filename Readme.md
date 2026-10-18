@@ -26,6 +26,6 @@
 ### Запуск
 
 ```bash
-git clone https://github.com/BloodGod1312/console-casino.git
+git clone https://github.com/BloodGod1312/Burmalda-Mellstroya.git
 cd console-casino
 python main.py
