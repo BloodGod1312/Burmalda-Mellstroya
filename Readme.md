@@ -27,5 +27,5 @@
 
 ```bash
 git clone https://github.com/BloodGod1312/Burmalda-Mellstroya.git
-cd console-casino
+cd Burmalda-Mellstroya
 python main.py
